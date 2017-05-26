@@ -1,0 +1,33 @@
+﻿<xml>
+  <ToUserName><![CDATA[$ToUserName$]]></ToUserName>
+  <FromUserName><![CDATA[$FromUserName$]]></FromUserName>
+  <CreateTime>$CreateTime$</CreateTime>
+  <MsgType><![CDATA[news]]></MsgType>
+  <ArticleCount>4</ArticleCount>
+  <Articles>
+    <item>
+      <Title><![CDATA[图文消息测试【有奖活动】分享点赞 积赞赢5个金币]]></Title>
+      <Description><![CDATA[图文消息测试【有奖活动】分享点赞 积赞赢5个金币]]></Description>
+      <PicUrl><![CDATA[https://mmbiz.qlogo.cn/mmbiz/QttjRQgjdmpc9KZBsxhhaB3y5nLmSnjCg1Q7E2mG8CQVZ0431sIYpMy7MptVFpOrE4Xdn3ar9yh9qsibib7zFdNg/0?wx_fmt=jpeg]]></PicUrl>
+      <Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA5OTI5ODY3NQ==&mid=205863640&idx=1&sn=de81fa75068af074218c084766ce2f0d#rd]]></Url>
+    </item>
+    <item>
+      <Title><![CDATA[图文消息测试【有奖活动】反馈有奖 奖你5个金币]]></Title>
+      <Description><![CDATA[图文消息测试【有奖活动】反馈有奖 奖你5个金币]]></Description>
+      <PicUrl><![CDATA[https://mmbiz.qlogo.cn/mmbiz/QttjRQgjdmpc9KZBsxhhaB3y5nLmSnjCG3VqlBv8eXvibwrciayfIX2m46uNHiaVUBsCnDBoVNBOlviaVRImZ5lUHg/0?wx_fmt=jpeg]]></PicUrl>
+      <Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA5OTI5ODY3NQ==&mid=205861643&idx=2&sn=956bdd76722208811b6e808a1305e33a#rd]]></Url>
+    </item>
+    <item>
+      <Title><![CDATA[图文消息测试【有奖活动】绑定帐号送800积分]]></Title>
+      <Description><![CDATA[测试【有奖活动】绑定帐号送800积分]]></Description>
+      <PicUrl><![CDATA[https://mmbiz.qlogo.cn/mmbiz/QttjRQgjdmpc9KZBsxhhaB3y5nLmSnjCS4UyuJH18WJkYZ2FIhiaSSZX3PicQ50adRasTVya8WX2bQWCGJRK1PAg/0?wx_fmt=jpeg]]></PicUrl>
+      <Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA5OTI5ODY3NQ==&mid=205861643&idx=3&sn=53b0a86a246c9964e7ed0f6e166b63a6#rd]]></Url>
+    </item>
+    <item>
+      <Title><![CDATA[图文消息测试【征集活动】3DSource云平台寻找云创意]]></Title>
+      <Description><![CDATA[测试【征集活动】3DSource云平台寻找云创意]]></Description>
+      <PicUrl><![CDATA[https://mmbiz.qlogo.cn/mmbiz/QttjRQgjdmpc9KZBsxhhaB3y5nLmSnjCoKpttorxPuSO8aBUZicNaPRic6KAn0ltWWvibQdgvm4CryZa7nAcQSwAg/0?wx_fmt=jpeg]]></PicUrl>
+      <Url><![CDATA[http://mp.weixin.qq.com/s?__biz=MzA5OTI5ODY3NQ==&mid=205861643&idx=4&sn=510b6e68c75b60af91c246b5150f0542#rd]]></Url>
+    </item>
+  </Articles>
+</xml>

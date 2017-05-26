@@ -1,0 +1,7 @@
+﻿<xml>
+  <ToUserName><![CDATA[$ToUserName$]]></ToUserName>
+  <FromUserName><![CDATA[$FromUserName$]]></FromUserName>
+  <CreateTime>$CreateTime$</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[你好，！<br /><a href="http://www.3dsource.cn">3DSource云平台</a>]]></Content>
+</xml>
